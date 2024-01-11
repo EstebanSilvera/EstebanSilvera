@@ -16,6 +16,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="250" src="https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif"  />
 
 ###
@@ -24,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Esteban Silvera from Colombia, <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...<br>- ⚡ In my free time I ...<br>- ⚡ In my free time I ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Esteban Silvera from Colombia, <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...<br>- ⚡ In my free time I ...<br>- ⚡ In my free time I ...<br>- ⚡ In my free time I ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
