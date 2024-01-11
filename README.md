@@ -16,11 +16,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<img align="right" height="250" src="https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif"  />
 
 ###
 
-<img align="right" height="250" src="https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif"  />
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -71,6 +71,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/EstebanSilvera/EstebanSilvera/output/snake.svg" alt="Snake animation" />
 
