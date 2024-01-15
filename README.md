@@ -26,7 +26,11 @@
 
 ###
 
-<p align="left">I'm Esteban Silvera from Colombia, <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...<br>- ⚡ In my free time I ...<br>- ⚡ In my free time I ...<br>- ⚡ In my free time I ...<br>- ⚡ In my free time I ...</p>
+<p align="left"> I am a professional technologist in computer systems management and Professional Technician in Computer Systems Maintenance, Software Developer, dedicated, self-taught, passionate about learning new knowledge in order to be updated in technological advances.<br/>
+
+I have knowledge in HTML, CSS, JavaScript, Python, NodeJs, Express. For a long time I have liked programming so I have been dedicating myself to improving my skills, abilities and knowledge to become a Fullstack Developer, I am improving and expanding my knowledge in React, and TypeScript.<br/>
+
+I am a sociable, friendly, courteous person, so, I like to work in a team, responsible, efficient, innovative and productive when working under pressure, with a lot of desire to keep learning constantly</p>
 
 ###
 
